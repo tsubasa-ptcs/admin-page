@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "テスト 太郎",
+      "username": "タロウ",
+      "email": "taro@dummy.com",
+      "phone": "090-1234-5675"
+    },
+    {
+      "id": 2,
+      "name": "テスト 次郎",
+      "username": "じろう",
+      "email": "ziro@dummy.com",
+      "phone": "090-1234-5677"
+    },
+    {
+      "name": "テスト 三郎",
+      "username": "サブロー",
+      "email": "test3@test.co.jp",
+      "phone": "080-3333-3333",
+      "id": 3
+    },
+    {
+      "name": "テスト 四郎",
+      "username": "しろー",
+      "email": "test4@test.co.jp",
+      "phone": "080-4444-4444",
+      "id": 4
+    },
+    {
+      "name": "テスト 五郎",
+      "username": "ごろー",
+      "email": "test5@test.co.jp",
+      "phone": "080-5555-5555",
+      "id": 5
+    },
+    {
+      "name": "テスト 六郎",
+      "email": "test6@test.co.jp",
+      "phone": "080-6666-6666",
+      "username": "ろくろう",
+      "id": 6
+    },
+    {
+      "name": "テスト 七郎",
+      "username": "shichiro",
+      "email": "test7@test.co.jp",
+      "phone": "080-7777-7777",
+      "id": 7
+    },
+    {
+      "name": "テスト 八郎",
+      "username": "はちろ",
+      "email": "test8@test.co.jp",
+      "id": 8,
+      "phone": "080-8888-8888"
+    },
+    {
+      "name": "テスト 九郎",
+      "username": "kuro",
+      "email": "test9@test.co.jp",
+      "phone": "090-9999-9999",
+      "id": 9
+    },
+    {
+      "username": "test10",
+      "email": "test@co.jp",
+      "phone": "090-1234-3456",
+      "name": "テスト10",
+      "id": 10
+    }
+  ],
+  "posts": [
+    {
+      "userId": 1,
+      "title": "投稿テスト",
+      "body": "テストだよ。",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "title": "test222",
+      "body": "test!!!!!!!!",
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "title": "3",
+      "body": "333",
+      "id": 3
+    }
+  ],
+  "cardsOrder": {}
+}
